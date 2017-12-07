@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+<<<<<<< HEAD
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/amrmh_000/Desktop/Java OOP/Data Base/junit-4.11.jar"/>
+>>>>>>> branch 'master' of https://hossamfawzy@bitbucket.org/DBMS-team/dbms-oop.git
+	<classpathentry kind="output" path="bin"/>
+</classpath>
